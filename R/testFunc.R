@@ -1,3 +1,4 @@
+#This function depends on data.table
 testFunc <-
 function(x) {
   

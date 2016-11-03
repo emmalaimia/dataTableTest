@@ -7,5 +7,6 @@ Author: Emma Liden
 Maintainer: Emma Liden <emma.liden@aimia.com>
 Description: Testing issue with using data.table with testthat
 Imports: data.table,
-          testthat
+          testthat,
+          dplyr
 License: Open
