@@ -1,0 +1,11 @@
+Package: dataTableTest
+Type: Package
+Title: Testing issue with using data.table with testthat
+Version: 1.0
+Date: 2016-11-03
+Author: Emma Liden
+Maintainer: Emma Liden <emma.liden@aimia.com>
+Description: Testing issue with using data.table with testthat
+Imports: data.table,
+          testthat
+License: Open
